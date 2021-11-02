@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Devthorr/Documents/AndroidProjects/android-basics-kotlin-words-app-starter/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Devthorr/Documents/AndroidProjects/android-basics-kotlin-words-app-starter/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Devthorr/Documents/AndroidProjects/android-basics-kotlin-words-app-starter/app/src/main/res/layout/fragment_letter_list.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Devthorr/Documents/AndroidProjects/android-basics-kotlin-words-app-starter/app/src/main/res/layout/fragment_word_list.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Devthorr/Documents/AndroidProjects/android-basics-kotlin-words-app-starter/app/src/main/res/layout/item_view.xml" value="0.15625" />
+        <entry key="..\:/Users/Devthorr/Documents/AndroidProjects/android-basics-kotlin-words-app-starter/app/src/main/res/menu/layout_menu.xml" value="0.29322916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14_PREVIEW" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>
